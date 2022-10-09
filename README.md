@@ -1,4 +1,5 @@
-# ZHOU-PEIDONG---weekly-report
+### ZHOU-PEIDONG---weekly-report
+#week1
 1)learning hours:about 10 hours
 
 2)learning progress:
@@ -13,3 +14,18 @@
 
 5)Plan for the next week:Learn more and be skillful about Linux ,finish the 1.5week task as planned ,start to learn about UNIX and computer network. 
   
+#week2
+1)learning hours:about 10 hours
+
+2)learning progress:
+having mastered the orders of Linux better;<br>  
+having set up the SSH and made a remote connection ;<br>
+having learn the basis of SSH;<br>
+having learn some basic grammar of github;<br>    
+3)implementation of the tasks I have done this week :<br>
+  carrying  out some fundamental function in wsl as well as virtual machine;<br>
+  making remote connection to my virtual machine,in which I met many difficulties ,searching the internet a lot and finally made;
+  
+4)unsolved problems: haven't solved the task in computer web;
+
+5)Plan for the next week:finish the rest tasks;
