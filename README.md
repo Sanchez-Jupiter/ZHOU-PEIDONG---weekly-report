@@ -29,3 +29,12 @@ having learn some basic grammar of github;<br>
 4)unsolved problems: haven't solved the task in computer web;
 
 5)Plan for the next week:finish the rest tasks;
+
+#week2
+1)learning hours:about 8 hours
+
+2)learning progress:
+roughly learnt the rest tasks<br>    
+3)implementation of the tasks I have done this week :<br>
+ 
+4)unsolved problems:not very skillful;
