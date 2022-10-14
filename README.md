@@ -30,7 +30,7 @@ having learn some basic grammar of github;<br>
 
 5)Plan for the next week:finish the rest tasks;
 
-#week2
+#week3
 1)learning hours:about 8 hours
 
 2)learning progress:
