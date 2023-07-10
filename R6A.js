@@ -37,10 +37,12 @@ const lst =
 head(head(tail(head(tail(head(tail(lst)))))));
 */
 
-const lst = list(7,
-                 list(list(list(6, 5,
-                                list(list(4)),
-                                3),
-                           2)
-                     ),
-                 1);
+
+//(c)
+
+/*
+const lst = list(7,list(list(list(6, 5,list(list(4)),3),2)),1);
+head(head(head(tail(tail(head(head(head(tail(lst)))))))));
+*/
+
+//(d)
