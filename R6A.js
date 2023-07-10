@@ -25,7 +25,7 @@ head(tail(tail(head(tail(lst)))));
 */
 //(b)
 
-/*
+
 const lst =
     list(7,
         list(6,
@@ -35,7 +35,7 @@ const lst =
                         list(2,
                             list(1)))))));
 head(head(tail(head(tail(head(tail(lst)))))));
-*/
+
 
 
 //(c)
